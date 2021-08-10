@@ -1,1 +1,3 @@
 # TS-Team-Profile-Generator
+
+This project is a team profile generator. It's a console-based application that uses inquirer to prompt the user with a series of questions, allowing them to generate teams of managers (though that role is limited to one per team), engineers, and interns, each with their own class-specific traits. After user input, an HTML page will be generated displaying the generated team, showing the relevant information of each team member based on their role. This generated HTML page, "team.html," can be found in the output folder, and this repository includes an example of an expected outputed file.
