@@ -1,11 +1,10 @@
 {
-  "name": "unit10hw",
+  "name": "ts-team-profile-generator",
   "version": "1.0.0",
-  "description": "OOP and testing for week 10 homework",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "directories": {
-    "lib": "lib",
-    "test": "test"
+    "lib": "lib"
   },
   "scripts": {
     "test": "jest --verbose test/*",
@@ -13,18 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevetrilogy/unit10hw.git"
+    "url": "git+https://github.com/ThomasSiopes/TS-Team-Profile-Generator.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevetrilogy/unit10hw/issues"
+    "url": "https://github.com/ThomasSiopes/TS-Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
-  "dependencies": {
-    "inquirer": "^6.3.1"
-  },
-  "devDependencies": {
-    "jest": "^24.8.0"
-  }
+  "homepage": "https://github.com/ThomasSiopes/TS-Team-Profile-Generator#readme"
 }
